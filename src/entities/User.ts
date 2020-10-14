@@ -1,4 +1,4 @@
-import {uuid} from 'uuidv4'
+import {uuid} from 'uuidv4';
 
 export class User {
   public readonly id: string;
